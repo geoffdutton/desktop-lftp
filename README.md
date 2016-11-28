@@ -12,6 +12,10 @@ As suggested below, I'm using [react-desktop](https://github.com/gabrielbull/rea
 
 The plan is to model it after [FileZilla](https://filezilla-project.org/). I would like to encrypt the saved sites though.
 
+## Screenshot
+
+![DesktopLftp v0.0.1](https://raw.githubusercontent.com/geoffdutton/desktop-lftp/master/screenshot-0.0.1.png)
+
 # From electron-react-boilerplate
 
 _Everything below is from [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)_
@@ -19,10 +23,6 @@ _Everything below is from [electron-react-boilerplate](https://github.com/chents
 > Live editing development on desktop app
 
 [Electron](http://electron.atom.io/) application boilerplate based on [React](https://facebook.github.io/react/), [Redux](https://github.com/reactjs/redux), [React Router](https://github.com/reactjs/react-router), [Webpack](http://webpack.github.io/docs/), [React Transform HMR](https://github.com/gaearon/react-transform-hmr) for rapid application development
-
-## Screenshot
-
-![DesktopLftp v0.0.1](https://raw.githubusercontent.com/geoffdutton/desktop-lftp/master/screenshot-0.0.1.png)
 
 ## Install
 
