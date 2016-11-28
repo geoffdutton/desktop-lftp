@@ -1,6 +1,6 @@
 # DesktopLftp
 
-**Important:** This is not functioning.
+**Important:** This is not functioning. It will run, but it doesn't actually connect to anything yet.
 
 Based on [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate), thanks!
 
