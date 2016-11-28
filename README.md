@@ -200,14 +200,13 @@ git pull upstream master
 ```
 
 ## Credits
-
 - [C. T. Lin](https://github.com/chentsulin)
 - [Jhen-Jie Hong](https://github.com/jhen0409)
 - [Amila Welihinda](https://github.com/amilajack)
 
 
 ## License
-MIT © [C. T. Lin](https://github.com/chentsulin)
+MIT © [Geoff Dutton](https://github.com/geoffdutton)
 
 [npm-image]: https://img.shields.io/npm/v/electron-react-boilerplate.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/electron-react-boilerplate
