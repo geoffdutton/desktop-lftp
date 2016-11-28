@@ -1,6 +1,20 @@
 # DesktopLftp
 
+**Important:** This is not functioning.
+
 Based on [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate), thanks!
+
+## Motivation
+
+Sometimes it seems like my ISP will throttle transfer speeds even over SFTP. Luckily, [LFTP](https://en.wikipedia.org/wiki/Lftp) offters multi-threaded connections, which almost always maxes out my connection, or pretty close to it depending on the source server. I also wanted to fiddle with react/redux/electron/etc.
+
+As suggested below, I'm using [react-desktop](https://github.com/gabrielbull/react-desktop) for the UI components.
+
+The plan is to model it after [FileZilla](https://filezilla-project.org/). I would like to encrypt the saved sites though.
+
+# From electron-react-boilerplate
+
+_Everything below is from [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)_
 
 > Live editing development on desktop app
 
@@ -8,7 +22,7 @@ Based on [electron-react-boilerplate](https://github.com/chentsulin/electron-rea
 
 ## Screenshot
 
-![Electron Boilerplate Demo](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif)
+![DesktopLftp v0.0.1](https://raw.githubusercontent.com/geoffdutton/desktop-lftp/master/screenshot-0.0.1.png)
 
 ## Install
 
@@ -18,7 +32,7 @@ Based on [electron-react-boilerplate](https://github.com/chentsulin/electron-rea
 First, clone the repo via git:
 
 ```bash
-git clone https://github.com/chentsulin/electron-react-boilerplate.git your-project-name
+git clone https://github.com/geoffdutton/desktop-lftp.git your-project-name
 ```
 
 And then install dependencies.
@@ -169,7 +183,7 @@ If you want to have native-like User Interface (OS X El Capitan and Windows 10),
 
 ## Dispatching redux actions from main process
 
-see discusses in [#118](https://github.com/chentsulin/electron-react-boilerplate/issues/118) and [#108](https://github.com/chentsulin/electron-react-boilerplate/issues/108)
+see discusses in [electron-react-boilerplate #118](https://github.com/chentsulin/electron-react-boilerplate/issues/118) and [electron-react-boilerplate #108](https://github.com/chentsulin/electron-react-boilerplate/issues/108)
 
 ## How to keep the boilerplate updated
 
@@ -185,7 +199,7 @@ Then, use git to merge some latest commits:
 git pull upstream master
 ```
 
-## Maintainers
+## Credits
 
 - [C. T. Lin](https://github.com/chentsulin)
 - [Jhen-Jie Hong](https://github.com/jhen0409)
