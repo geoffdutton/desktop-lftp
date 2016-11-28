@@ -1,12 +1,6 @@
-# electron-react-boilerplate
+# DesktopLftp
 
-[![Build Status][travis-image]][travis-url]
-[![Appveyor Build Status][appveyor-image]][appveyor-url]
-[![Dependency Status][david_img]][david_site]
-[![NPM version][npm-image]][npm-url]
-[![Join the chat at https://gitter.im/electron-react-boilerplate/Lobby](https://badges.gitter.im/electron-react-boilerplate/Lobby.svg)](https://gitter.im/electron-react-boilerplate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-![](./erb-logo.png)
+Based on [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate), thanks!
 
 > Live editing development on desktop app
 
@@ -19,7 +13,7 @@
 ## Install
 
 * **Note: requires a node version >= 6 and an npm version >= 3.**
-* **If you have installation or compilation issues with this project, please see [our debugging guide](https://github.com/chentsulin/electron-react-boilerplate/issues/400)**
+* **If you have installation or compilation issues with this project, please see the [electron-react-boilerplate debugging guide](https://github.com/chentsulin/electron-react-boilerplate/issues/400)**
 
 First, clone the repo via git:
 
