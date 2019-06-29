@@ -1,5 +1,7 @@
 # DesktopLftp
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/geoffdutton/desktop-lftp.svg)](https://greenkeeper.io/)
+
 **Important:** This is not functioning. It will run, but it doesn't actually connect to anything yet.
 
 Based on [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate), thanks!
